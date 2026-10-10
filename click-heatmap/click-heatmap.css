@@ -1,0 +1,15 @@
+/*
+ * Click Heatmap 默认样式。
+ */
+
+.click-heatmap-wrap {
+	margin: 0 auto;
+	max-width: 1080px;
+}
+
+.click-heatmap-box {
+	background: #fff;
+	border: 1px solid #e2e4e7;
+	border-radius: 6px;
+	padding: 24px;
+}
